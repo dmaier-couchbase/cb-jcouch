@@ -1,2 +1,2 @@
-# cb-jcouch
+# jCouch
 A java implementation of couchstore
